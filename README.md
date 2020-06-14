@@ -20,5 +20,11 @@ This repo contains homeworks of computational methods course, 3 course, 5-6 seme
  	+ Power iteration method
 	+ Scalar method (dot product method)
 	
-+ [HW4]() Fredholm integral equation of the second kind
++ [HW4](https://github.com/Feodoros/ComputationalMethods/blob/master/scripts/SndPart/HW4.ipynb) Fredholm integral equation of the second kind
++ [HW5](https://github.com/Feodoros/ComputationalMethods/blob/master/scripts/SndPart/HW5.ipynb) ODE of the second kind
+	+ Finite-difference method
+	+ Tridiagonal matrix algorithm
++ [HW6](https://github.com/Feodoros/ComputationalMethods/blob/master/scripts/SndPart/HW6.ipynb) Heat equation
+	+ Explicit difference scheme
+	+ Weights sheme
 ## Theory [here](https://github.com/Feodoros/ComputationalMethods/blob/master/method_part_1.pdf)
